@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+
+  <AddIn Type="Command">
+    <Text>Command Linked My Commands</Text>
+    <Assembly>LinkedMyCommands.dll</Assembly>
+    <FullClassName>LinkedMyCommands.CommandLinkedMycommands</FullClassName>
+    <AddInId>4B682486-148B-4B0E-9ABC-AC0745B4D47C</AddInId>
+    <VendorId>RBIM</VendorId>
+    <VendorDescription>RBIM, BIM Consultancy Firm</VendorDescription>
+  </AddIn>
+
+
+</RevitAddIns>
+
+
